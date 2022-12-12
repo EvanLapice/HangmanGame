@@ -1,0 +1,15 @@
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\bin\Debug\net6.0\HangmanGame.exe
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\bin\Debug\net6.0\HangmanGame.deps.json
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\bin\Debug\net6.0\HangmanGame.runtimeconfig.json
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\bin\Debug\net6.0\HangmanGame.dll
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\bin\Debug\net6.0\HangmanGame.pdb
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.AssemblyReference.cache
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.AssemblyInfo.cs
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.dll
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\refint\HangmanGame.dll
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.pdb
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\HangmanGame.genruntimeconfig.cache
+C:\Users\EvLoco\OneDrive\1. Evan Lapice Coding Projects\HangmanGame\obj\Debug\net6.0\ref\HangmanGame.dll
